@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.1 (64-bit)
+# SW Build 1538259 on Fri Apr  8 15:45:27 MDT 2016
+# 
+# Start of session at: Thu Jun 02 20:04:29 2022
+# Process ID: 17164
+# Current directory: C:/Users/senel/micro_blaze.xpr/proje_2016/sdk1/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: C:/Users/senel/micro_blaze.xpr/proje_2016/sdk1/webtalk/webtalk.log
+# Journal file: C:/Users/senel/micro_blaze.xpr/proje_2016/sdk1/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

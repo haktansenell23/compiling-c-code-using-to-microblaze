@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2016.1 (64-bit)
+# SW Build 1538259 on Fri Apr  8 15:45:27 MDT 2016
+# IP Build 1537824 on Fri Apr  8 04:28:57 MDT 2016
+# Start of session at: Fri Jun 03 00:47:26 2022
+# Process ID: 17352
+# Current directory: C:/Users/senel/micro_blaze.xpr/proje_2016
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4908 C:\Users\senel\micro_blaze.xpr\proje_2016\proje_2016.xpr
+# Log file: C:/Users/senel/micro_blaze.xpr/proje_2016/vivado.log
+# Journal file: C:/Users/senel/micro_blaze.xpr/proje_2016\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/senel/micro_blaze.xpr/proje_2016/proje_2016.xpr
+update_compile_order -fileset sources_1
+open_bd_design {C:/Users/senel/micro_blaze.xpr/proje_2016/proje_2016.srcs/sources_1/bd/mblaze/mblaze.bd}
+launch_sdk -workspace C:/Users/senel/micro_blaze.xpr/proje_2016/sdk1 -hwspec C:/Users/senel/micro_blaze.xpr/proje_2016/sdk1/mblaze_wrapper.hdf
+reset_run synth_1
+launch_runs impl_1
+wait_on_run impl_1
+reset_run impl_1 -noclean_dir 

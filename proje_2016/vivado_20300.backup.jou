@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2016.1 (64-bit)
+# SW Build 1538259 on Fri Apr  8 15:45:27 MDT 2016
+# IP Build 1537824 on Fri Apr  8 04:28:57 MDT 2016
+# Start of session at: Fri Jun 03 08:53:56 2022
+# Process ID: 20300
+# Current directory: C:/Users/senel/micro_blaze.xpr/proje_2016
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5172 C:\Users\senel\micro_blaze.xpr\proje_2016\proje_2016.xpr
+# Log file: C:/Users/senel/micro_blaze.xpr/proje_2016/vivado.log
+# Journal file: C:/Users/senel/micro_blaze.xpr/proje_2016\vivado.jou
+#-----------------------------------------------------------
+start_guopopen_project C:/Users/senel/micro_blaze.xpr/proje_2016/proje_2016.xpupupdate_compile_order -fileset sources_1
+launch_runs impl_1
+wait_on_run impl_1
+reset_run impl_1
+launch_runs impl_1
+wait_on_run impl_1
+reset_run impl_1

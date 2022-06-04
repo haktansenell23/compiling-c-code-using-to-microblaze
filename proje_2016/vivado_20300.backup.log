@@ -1,0 +1,28 @@
+#-----------------------------------------------------------
+# Vivado v2016.1 (64-bit)
+# SW Build 1538259 on Fri Apr  8 15:45:27 MDT 2016
+# IP Build 1537824 on Fri Apr  8 04:28:57 MDT 2016
+# Start of session at: Fri Jun 03 08:53:56 2022
+# Process ID: 20300
+# Current directory: C:/Users/senel/micro_blaze.xpr/proje_2016
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5172 C:\Users\senel\micro_blaze.xpr\proje_2016\proje_2016.xpr
+# Log file: C:/Users/senel/micro_blaze.xpr/proje_2016/vivado.log
+# Journal file: C:/Users/senel/micro_blaze.xpr/proje_2016\vivado.jou
+#-----------------------------------------------------------
+start_guopopen_project C:/Users/senel/micro_blaze.xpr/proje_2016/proje_2016.xpr
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/senel/proje_2016/proje_2016.srcs/sources_1/bd/mblaze/ip/mblaze_mig_7series_0_0/board.prj'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/senel/proje_2016/proje_2016.srcs/sources_1/bd/mblaze/ip/mblaze_mig_7series_1_0/board.prj'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2016.1/data/ip'opopen_project: Time (s): cpu = 00:00:22 ; elapsed = 00:00:13 . Memory (MB): peak = 1007.211 ; gain = 308.73upupdate_compile_order -fileset sources_exit
+INFO: [Common 17-206] Exiting Vivado at Fri Jun 03 08:56:04 2022...
+tput will be captured here: C:/Users/senel/micro_blaze.xpr/proje_2016/proje_2016.runs/impl_1/runme.log
+reset_run impl_1
+launch_runs impl_1
+[Fri Jun 03 08:55:17 2022] Launched impl_1...
+Run output will be captured here: C:/Users/senel/micro_blaze.xpr/proje_2016/proje_2016.runs/impl_1/runme.log
+reset_run impl_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Jun 03 08:55:39 2022...

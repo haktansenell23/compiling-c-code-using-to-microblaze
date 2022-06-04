@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# updatemem v2016.1 (64-bit)
+# SW Build 1538259 on Fri Apr  8 15:45:27 MDT 2016
+# 
+# Start of session at: Fri Jun 03 11:39:05 2022
+# Process ID: 19180
+# Current directory: C:/Users/senel/micro_blaze.xpr/proje_2016
+# Command line: updatemem.exe -mode batch -source C:/Xilinx/SDK/2016.1/scripts/updatemem/main.tcl -notrace -tclargs -meminfo C:/Users/senel/micro_blaze.xpr/proje_2016/sdk1/mblaze_wrapper_hw_platform_0/mblaze_wrapper.mmi -data C:/Xilinx/SDK/2016.1/data/embeddedsw/lib/microblaze/mb_bootloop_le.elf -proc mblaze_i/microblaze_0 -bit C:/Users/senel/micro_blaze.xpr/proje_2016/sdk1/mblaze_wrapper_hw_platform_0/mblaze_wrapper.bit -out C:/Users/senel/micro_blaze.xpr/proje_2016/sdk1/mblaze_wrapper_hw_platform_0/download.bit -force
+# Log file: C:/Users/senel/micro_blaze.xpr/proje_2016/updatemem.log
+# Journal file: C:/Users/senel/micro_blaze.xpr/proje_2016\updatemem.jou
+#-----------------------------------------------------------
+source C:/Xilinx/SDK/2016.1/scripts/updatemem/main.tcl -notrace
